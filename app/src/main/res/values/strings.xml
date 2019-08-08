@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="name">Name</string>
+    <string name="price">Name</string>
+    <string name="description">Name</string>
+    <string name="deal_title">Deal Title</string>
+    <string name="price_numbers_only">Price (Numbers Only)</string>
+    <string name="save_menu">save</string>
+    <string name="tvPrice">TextView</string>
+    <string name="tvDescription">TextView</string>
+    <string name="tvTitle">TextView</string>
+    <string name="tvImage">TODO</string>
+</resources>
